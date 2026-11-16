@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "messages": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z"
+  ],
+  "random_order": false,
+  "random_delay": false,
+  "delay_min": 0.02,
+  "delay_max": 2.0,
+  "send_limit": 26,
+  "timer_minutes": 0.0,
+  "hotkeys": {
+    "toggle": "f8",
+    "pause": "f9",
+    "quit": "alt+q"
+  },
+  "dark_mode": true
+}
